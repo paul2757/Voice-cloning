@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "voce": "narator",
+        "text": "Capitolul unu. Începutul furtunii. Afară ningea de rupea."
+    },
+    {
+        "id": 2,
+        "voce": "narator",
+        "text": "domnul Ionescu, locuind pe strada Libertății numărul patruzeci și doi, apartamentul trei, a ieșit din casă deși temperatura scăzuse la -zece virgulă cinci grade Celsius. Vântul bătea cu peste șaizeci km/h."
+    },
+    {
+        "id": 3,
+        "voce": "dialog",
+        "text": "Hei, ai uitat să încui ușa!"
+    },
+    {
+        "id": 4,
+        "voce": "narator",
+        "text": "a strigat doamna Maria de la etaj, fluturând un fular \"roșu ca focul\"."
+    },
+    {
+        "id": 5,
+        "voce": "dialog",
+        "text": "Nu am uitat absolut nimic, doctorul Popa m-a sunat deja!"
+    },
+    {
+        "id": 6,
+        "voce": "narator",
+        "text": "răspunse el nervos, aruncând o privire spre județul Brașov, unde norii se adunau (rapid). Bărbatul a făcut fix o mie cinci sute de pași prin zăpada care îi trecea de genunchi,"
+    },
+    {
+        "id": 7,
+        "voce": "narator",
+        "text": "gândindu-se că viața este o continuă luptă cu elementele naturii, o bătălie pe care nu o poți câștiga niciodată definitiv, ci doar o poți amâna pentru a doua zi, când soarele va răsări din nou; cu toate acestea,"
+    },
+    {
+        "id": 8,
+        "voce": "narator",
+        "text": "speranța rămânea vie în sufletul său înghețat."
+    },
+    {
+        "id": 9,
+        "voce": "dialog",
+        "text": "Ce vreme îngrozitoare. murmură el încet, pierzându-se în ceață."
+    }
+]
